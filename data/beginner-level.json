@@ -1,0 +1,18 @@
+{
+    "id": 113,
+    "name": "Beginner Level",
+    "author": "spike",
+    "creators": ["spike"],
+    "verifier": "spike",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+       // {
+           // "user": "Sample_Victor_1",
+           // "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+           // "percent": 100,
+           // "hz": 360
+       // }
+    ]
+}
