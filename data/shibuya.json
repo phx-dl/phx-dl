@@ -1,0 +1,18 @@
+{
+    "id": 117,
+    "name": "Eye Contact",
+    "author": "Incosidium",
+    "creators": ["Incosidium"],
+    "verifier": "Incosidium",
+    "verification": "https://www.youtube.com/watch?v=POs7pTsPZXo",
+    "percentToQualify": 46,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+           "hz": 360
+        }
+    ]
+}
