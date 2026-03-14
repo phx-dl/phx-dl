@@ -1,0 +1,18 @@
+{
+    "id": 125,
+    "name": "Bergundy Bewilder",
+    "author": "MrAlmond",
+    "creators": ["MrAlmond"],
+    "verifier": "MrAlmond",
+    "verification": "https://www.youtube.com/watch?v=wbLCIgTZQ7M",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+           "hz": 360
+        }
+    ]
+}
