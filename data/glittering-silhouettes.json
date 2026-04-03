@@ -1,0 +1,18 @@
+{
+    "id": 122,
+    "name": "Glittering Silhouettes",
+    "author": "Blazer",
+    "creators": ["Blazer"],
+    "verifier": "Blazer",
+    "verification": "https://www.youtube.com/watch?v=gTOaH5xx2VQ",
+    "percentToQualify": 34,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+           "hz": 360
+        }
+    ]
+}
