@@ -3,12 +3,13 @@
         "role": "owner",
         "name": "davidian",
         "link": "https://www.youtube.com/@machinedavidian"
-    } //remember to add a comma when adding more people
-    /*{
+    }, //remember to add a comma when adding more people
+    {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
-    },
+        "name": "Lunikay",
+        "link": "https://www.youtube.com/@lunikaygd"
+    }
+    /*
     {
         "role": "helper",
         "name": "List Helper",
