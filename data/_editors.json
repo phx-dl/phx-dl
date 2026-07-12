@@ -8,8 +8,7 @@
         "role": "admin",
         "name": "Lunikay",
         "link": "https://www.youtube.com/@lunikaygd"
-    }
-    /*
+    },
     {
         "role": "helper",
         "name": "List Helper",
@@ -25,5 +24,5 @@
         "name": "List Coder",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
-    */
+    
 ]
